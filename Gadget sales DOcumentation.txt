@@ -1,0 +1,56 @@
+GADGET SALES PERFOMANCE ANALYSIS
+
+
+Project Overview
+
+This project analyzes gadget sales data to identify customer behavior, revenue trends, product performance, and overall business insights.
+The dataset contains 1,200 records of sales transactions collected across different time periods.
+
+Objectives
+
+• Analyze total sales revenue
+• Identify top-performing products
+• Track monthly/weekly sales trends
+• Understand customer purchasing behavior
+• Discover high-profit categories
+• Create visual dashboards for insights
+
+* Tools Used
+• Microsoft Excel
+• SQL 
+• Tableau / Power BI
+• GitHub
+
+Data Cleaning Process
+The following cleaning steps were performed:
+• Removed duplicate records
+• Checked and handled missing values
+• Corrected data formats
+• Standardized column names
+• Verified numerical consistency
+• Prepared dataset for visualization
+
+Key Insights
+
+
+• Total Revenue Generated: $1,264,761.96
+• Best-Selling product: chairs
+• Highest Sales Month: june
+• Most Active Customer Segment:
+Young Adults
+
+Dashboard Features
+Your dashboard may include:
+• Sales trend charts
+• Revenue KPIs
+• Product category analysis
+• Customer segmentation
+• Profit analysis
+• Interactive filters
+
+Files Included
+• Cleaned Dataset (.xIsx / .csv)
+• SQL Queries (sql)
+• Tableau Workbook
+wb/ .twx)
+• Dashboard Screenshots
